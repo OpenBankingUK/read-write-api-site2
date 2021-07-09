@@ -1,0 +1,5 @@
+{
+    // Specifies the color theme used in the workbench.
+    "workbench.colorTheme": "Default Dark+",
+    "editor.renderWhitespace": "all"
+}
